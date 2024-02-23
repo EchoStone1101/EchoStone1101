@@ -2,7 +2,7 @@
 
 [![Echostone's GitHub stats](https://github-readme-stats-kappa-blond.vercel.app/api?username=echostone1101)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-kappa-blond.vercel.app/api/top-langs/?username=echostone1101&layout=compact&hide=llvm)
+![Top Langs](https://github-readme-stats-kappa-blond.vercel.app/api/top-langs/?username=echostone1101&layout=compact&hide=llvm&exclude_repo=MeissaDNS,VeriHandle)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=echostone1101)](https://git.io/streak-stats)
 
