@@ -2,7 +2,7 @@
 
 [![Echostone's GitHub stats](https://github-readme-stats-kappa-blond.vercel.app/api?username=echostone1101)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-kappa-blond.vercel.app/api/top-langs/?username=echostone1101&layout=compact)
+![Top Langs](https://github-readme-stats-kappa-blond.vercel.app/api/top-langs/?username=echostone1101&layout=compact&hide=llvm)
 
 <!--
 **EchoStone1101/EchoStone1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
