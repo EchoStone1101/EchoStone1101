@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Echostone's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Echostone's GitHub stats](https://github-readme-stats.vercel.app/api?username=echostone1101)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **EchoStone1101/EchoStone1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
